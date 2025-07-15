@@ -54,9 +54,9 @@ To get a local copy up and running, follow these simple steps:
 ## ✍️ Author
 
 **Kerem Levent**  
-📧 [keremleventt@gmail.com](mailto:keremleventt@gmail.com)
-🔗 [LinkedIn Profile]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/keremlevent/)) 
-
+📧 [keremleventt@gmail.com](mailto:keremleventt@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/keremlevent/)
+  
 ---
 
 ## 📄 License
