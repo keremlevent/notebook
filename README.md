@@ -24,11 +24,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/list.png" alt="Recipe List" width="45%" />
+  <img src="screenshots/liste.png" alt="Recipe List" width="45%" />
   &nbsp;&nbsp;
-  <img src="screenshots/recipe.png" alt="Add Recipe" width="45%" />
+  <img src="screenshots/tarif.png" alt="Add Recipe" width="45%" />
 </p>
-
 
 ---
 
@@ -47,44 +46,16 @@ To get a local copy up and running, follow these simple steps:
    - `Build > Rebuild Project`
    - Run on emulator or physical device
 
-> **Minimum SDK:** 23 (Android 6.0)  
-> **Target SDK:** 34 (Android 14)
-
----
-
-## 🧠 Architecture Overview
-
-This project follows **MVVM (Model-View-ViewModel)** architecture:
-
-- `Model`: Data classes and Room database
-- `ViewModel`: Lifecycle-aware data handling
-- `View`: Fragments and Activities using LiveData for UI updates
-
----
-
-## 📁 Project Structure
-
-```
-├── data/
-│   ├── model/
-│   ├── dao/
-│   └── database/
-├── ui/
-│   ├── fragments/
-│   ├── viewmodels/
-│   └── adapters/
-├── utils/
-├── MainActivity.kt
-```
+> **Minimum SDK:** 24 
+> **Target SDK:** 34 
 
 ---
 
 ## ✍️ Author
 
-**Your Full Name**  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourusername)  
-🔗 [GitHub Profile](https://github.com/yourusername)
+**Kerem Levent**  
+📧 [keremleventt@gmail.com](mailto:keremleventt@gmail.com)
+🔗 [LinkedIn Profile]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/keremlevent/)) 
 
 ---
 
